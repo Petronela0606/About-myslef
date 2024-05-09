@@ -1,4 +1,4 @@
-# About-myslef
+# About me
 <b>I have experience using Excel, Tableau, Power BI, SQL, Azure, Python.<b>
  
 <p align="center">
